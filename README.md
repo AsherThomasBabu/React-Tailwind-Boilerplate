@@ -5,8 +5,9 @@ Detailed installation guide to Tailwind CSS for create-react-app can be found [H
 
 ## To Start Using
 
-- Clone Repository to local storage using `git clone https://github.com/AsherThomasBabu/React-Tailwind-Boilerplate.git`
-- Run `npm install` to install all required repositories
+- Clone Repository to local storage using `git clone https://github.com/AsherThomasBabu/React-Tailwind-Boilerplate.git`.
+- Navigate to folder using `cd React-Tailwind-Boilerplate`.
+- Run `npm install` to install all required repositories.
 - You're all set and ready to build your React App powered by Tailwind CSS.
 
 ## Available Scripts
